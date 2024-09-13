@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KPU App</string>
+    <string name="kpu">KPU</string>
+    <string name="informasi">Informasi</string>
+    <string name="form_entry">Form Entry</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="keluar">Keluar</string>
+    <string name="detail_pemilih">Detail Pemilih</string>
+    <string name="nik">NIK :</string>
+    <string name="nama_lengkap">Nama Lengkap :</string>
+    <string name="no_hp">No Hp :</string>
+    <string name="jenis_kelamin">Jenis Kelamin :</string>
+    <string name="tanggal">Tanggal :</string>
+    <string name="alamat">Alamat :</string>
+</resources>
